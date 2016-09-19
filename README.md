@@ -1,5 +1,5 @@
-Docker Java
-===========
+Docker SBT
+==========
 
 Docker Image packaging for SBT, built on [my Oracle Java image][1]. Available on the [Docker Hub][2].
 
